@@ -1,0 +1,24 @@
+{
+    "sliders": [
+        {
+            "id": 1, 
+            "src": "src/assets/imagenUno.jpg",
+            "alt": "imagen uno"
+        },
+        {
+            "id": 2, 
+            "src": "src/assets/imagenDos.jpg",
+            "alt": "imagen dos"
+        },
+        {
+            "id": 3, 
+            "src": "src/assets/imagenTres.jpg",
+            "alt": "imagen tres"
+        },
+        {
+            "id": 4, 
+            "src": "src/assets/imagenCuatro.jpg",
+            "alt": "imagen cuatro"
+        }
+    ]
+}
